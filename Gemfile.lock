@@ -133,7 +133,7 @@ GEM
       net-http-persistent
       os
       zip
-    neo4j-meta_model (0.3.1)
+    neo4j-meta_model (0.3.2)
       active_model_serializers (= 0.9.1)
       ember-rails (~> 0.15.0)
       ember-source (~> 1.8.1)
