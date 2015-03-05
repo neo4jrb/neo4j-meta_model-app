@@ -21,7 +21,8 @@ gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.0', group: :doc
 
-gem 'neo4j-meta_model', require: 'neo4j/meta_model'
+#gem 'neo4j-meta_model', '~> 0.3.5', require: 'neo4j/meta_model'
+gem 'neo4j-meta_model', path: '/Users/brian/github/neo4jrb/neo4j-meta_model', require: 'neo4j/meta_model'
 
 gem 'rails_12factor', group: :production
 
