@@ -204,6 +204,7 @@ DEPENDENCIES
   coffee-rails (~> 4.1.0)
   jbuilder (~> 2.0)
   jquery-rails
+  neo4j
   neo4j-meta_model
   rails (= 4.2.0)
   rails_12factor
